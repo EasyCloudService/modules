@@ -1,0 +1,11 @@
+name: ControlPanelModule
+description: Its just an controlpanel
+api-version: "1.16"
+author: FlxwDNS
+main: net.easycloud.controlpanel.ControlPanelPlugin
+version: 1
+
+commands:
+  control-panel:
+    aliases: cp
+    description: List all services.
